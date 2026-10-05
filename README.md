@@ -6,6 +6,8 @@
 
 Experience designing and developing mobile applications using modern cross-platform technologies. Built with Next.js and deployed on Vercel.
 
+**Live site:** [https://mobile-digital-products.vercel.app](https://mobile-digital-products.vercel.app)
+
 ## Technologies
 
 - GPS and location-based functionality
@@ -17,21 +19,18 @@ Experience designing and developing mobile applications using modern cross-platf
 
 **Tech:** React Native, Expo, JavaScript/TypeScript and REST APIs
 
-## Getting Started
+## Live site
+
+Open [https://mobile-digital-products.vercel.app](https://mobile-digital-products.vercel.app).
+
+## Run locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
-
-## Deploy on Vercel
-
-```bash
-npm run build
-vercel --prod
-```
+The dev server stays on your computer only. It is not a public link.
 
 ## Author
 
